@@ -83,11 +83,6 @@ The project is structured into **4 weeks**, each building on the last, combining
 
 ---
 
-## 🗂️ Project Structure
-
-
----
-
 ## 🧾 Tools & Libraries Used
 
 - **Programming Language:** `Python`  
