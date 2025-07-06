@@ -38,7 +38,7 @@ The project is structured into **4 weeks**, each building on the last, combining
 - 📊 Visualized feature impact using bar plots & scatter plots
 - 🧠 Developed a basic understanding of predictive modeling for real-world environmental data
   
-## 📌 Week 4 Next Steps
+## 📌 **Week 4 - Final Submission**
 
 - 🌲 Implement **Random Forest** and ⚡ **XGBoost** models  
 - 🛠️ Perform **hyperparameter tuning** for optimal model performance  
