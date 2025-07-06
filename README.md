@@ -4,7 +4,7 @@
 
 > **Internship Program:** AICTE–Edunet Foundation | 4-Week Virtual Internship  
 > **Project Title:** Carbon Emission Prediction Using Machine Learning  
-> **Internship Phase:** ✅ Completed Weeks 1 to 3 (Final Week in Progress)  
+> **Internship Phase:** ✅ Completed Weeks 1 to 4
 > **Domain Focus:** Artificial Intelligence × Environmental Sustainability  
 > **Dataset Source:** [Kaggle](https://www.kaggle.com) (Global Emission Data)
 
